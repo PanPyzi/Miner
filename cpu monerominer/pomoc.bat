@@ -1,0 +1,2 @@
+minerd -h
+pause

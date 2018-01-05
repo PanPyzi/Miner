@@ -1,0 +1,4 @@
+-o ( stratum/http:link strony:port) -u porfel monero -p nazwa minerki (Teorytycznie has³o ale strony wykorzystuja jako nazwe)
+
+po wiêcej info uruchom pomoc.bat
+do uruchomiania uzywaj start.bat

